@@ -1,0 +1,256 @@
+User_ID,City,Device_Type,Plan_Type,Favourite_Genre,Age,Sessions_Per_Week,Avg_Session_Minutes,Monthly_Fee_INR,Internet_Speed_Mbps,Last_Active_Date,Monthly_Watch_Hours
+U1089,Bengaluru,Smart TV,Basic,Drama,34,9,53,199,96,2025-07-10,52.3
+U1216,Mumbai,Smart TV,Basic,Comedy,16,9,76,199,90,2025-03-20,48.8
+U1033,Delhi,Smartphone,Standard,Documentary,35,11,83,499,59,2025-12-17,45.4
+U1182,Mumbai,Smartphone,Premium,Comedy,31,10,47,649,146,2026-01-28,57.7
+U1092,Mumbai,Smartphone,Standard,Action,34,3,60,499,207,2025-05-30,35.5
+U1141,Bengaluru,Smartphone,Premium,Drama,16,4,62,649,67,2025-11-13,41.2
+U1192,Mumbai,Tablet,Mobile,Drama,27,6,97,149,27,2025-04-14,52.6
+U1052,Hyderabad,Tablet,Standard,Action,32,6,55,499,13,2026-02-12,43.2
+U1003,Delhi,Smart TV,Mobile,Documentary,24,9,40,149,38,2025-07-07,64.2
+U1053,Mumbai,Laptop,Mobile,Thriller,23,11,70,149,108,2025-04-24,55.8
+U1175,Mumbai,Smart TV,Standard,Drama,16,5,67,499,22,2025-02-08,32.4
+U1050,Delhi,Smartphone,Standard,Drama,27,3,85,499,44,2026-02-01,41.4
+U1123,Bengaluru,Smart TV,Standard,Drama,33,1,75,499,117,2025-08-08,43.0
+U1130,Lucknow,Smartphone,Standard,Drama,40,7,56,499,72,2026-04-02,42.5
+U1195,Delhi,Smartphone,Basic,Comedy,29,3,59,199,23,2025-04-10,27.9
+U1241,Mumbai,Smartphone,Basic,Action,34,9,40,199,87,2025-06-10,38.7
+U1119,Bengaluru,Laptop,Premium,Action,28,1,42,649,45,2026-06-22,27.2
+U1233,Lucknow,Laptop,Standard,Drama,38,8,70,499,42,2025-07-31,50.8
+U1188,mumbai,Smartphone,Premium,Action,26,6,74,649,252,2026-04-12,37.1
+U1159,Delhi,Smart TV,Mobile,Action,,4,50,149,62,2026-08-20,24.0
+U1004,Bengaluru,Smartphone,Basic,Drama,23,9,80,199,30,2025-02-14,35.4
+U1223,Bengaluru,Laptop,Standard,Action,37,9,49,499,173,2026-09-06,48.2
+U1076,Delhi,Smartphone,Basic,Action,40,5,24,199,33,2026-02-09,28.0
+U1167,Delhi,Smartphone,Standard,Drama,19,1,67,499,226,2024-11-27,27.3
+U1162,Hyderabad,Smartphone,Mobile,Comedy,40,8,80,149,144,2025-09-21,30.4
+U1120,Bengaluru,Smart TV,Standard,Action,36,4,44,499,35,2025-06-04,27.6
+U1235,Hyderabad,,Basic,Comedy,25,5,70,199,134,2026-01-03,33.8
+U1137,Mumbai,Smartphone,Mobile,Drama,21,10,85,149,72,2026-09-26,59.8
+U1209,Bengaluru,Smart TV,Basic,Action,25,5,39,199,84,2026-06-06,29.6
+U1001,Bengaluru,Smart TV,Mobile,Action,34,7,62,149,39,2026-02-05,42.1
+U1005,Mumbai,Smartphone,Mobile,Thriller,16,4,66,149,175,2026-10-01,18.2
+U1225,Lucknow,Smartphone,Mobile,Thriller,31,5,47,149,75,2026-10-20,22.7
+U1186,Bengaluru,Smartphone,Basic,Comedy,27,8,55,199,83,2025-11-05,34.7
+U1047,Mumbai,Smartphone,Basic,Thriller,28,7,80,199,127,2025-01-11,37.3
+U1205,Mumbai,Laptop,Mobile,Comedy,16,5,100,149,40,2025-05-19,38.0
+U1077,Delhi,Smartphone,Basic,Comedy,26,9,96,199,176,2025-07-15,63.4
+U1189,Bengaluru,Smartphone,Mobile,Action,30,5,40,149,121,2025-12-28,38.0
+U1124,Lucknow,Smartphone,Basic,Comedy,33,8,57,199,50,2026-08-20,42.4
+U1106,Mumbai,Smartphone,Premium,Drama,16,5,66,649,26,2026-10-30,46.9
+U1214, Delhi ,Smartphone,Basic,Documentary,30,6,59,199,39,2026-03-31,27.9
+U1072,Delhi,Laptop,Mobile,Drama,19,10,55,149,47,2026-06-03,55.8
+U1045,Lucknow,Laptop,Mobile,Drama,23,8,85,149,24,2026-08-25,51.9
+U1083,Lucknow,Smart TV,Premium,Comedy,25,4,72,649,46,2025-04-22,49.1
+U1027,Mumbai,Smart TV,Standard,Thriller,28,6,108,499,32,2025-11-02,60.0
+U1166,Delhi,Smartphone,Basic,Thriller,-24,1,56,199,110,2025-10-14,17.8
+U1006,Bengaluru,Smart TV,Mobile,Drama,31,4,51,149,,2026-03-05,29.0
+U1152,Delhi,Smart TV,Basic,Comedy,42,7,43,199,28,2026-05-31,37.3
+U1062,Hyderabad,Smartphone,Standard,Drama,40,6,71,499,106,2026-03-08,35.7
+U1021,Bengaluru,Smartphone,Mobile,Action,27,6,27,149,44,2025-05-16,22.7
+U1015,Bengaluru,Smartphone,Mobile,Action,28,7,10,149,195,2024-12-01,25.5
+U1218,Bengaluru,Smart TV,Standard,Comedy,28,3,55,499,22,2025-11-12,19.3
+U1065,Bengaluru,Smart TV,Basic,Comedy,20,3,61,199,106,2025-05-10,27.8
+U1237,Bengaluru,Laptop,Basic,Thriller,19,7,66,199,24,2026-11-19,35.0
+U1087,Mumbai,Smart TV,Mobile,Documentary,27,6,53,149,30,2025-05-26,55.2
+U1070,Bengaluru,Smartphone,Standard,Comedy,32,7,28,499,80,2025-07-02,21.1
+U1191,Delhi,Smartphone,Standard,Thriller,35,3,75,499,122,2026-07-22,30.0
+U1149,Mumbai,Smartphone,Premium,Comedy,24,10,39,649,43,2025-06-09,35.6
+U1012,Hyderabad,Smartphone,Basic,Comedy,29,10,57,199,30,2025-10-19,37.3
+U1116,Mumbai,Laptop,Mobile,Drama,23,5,66,149,32,2026-04-28,38.0
+U1199,Delhi,Smartphone,Standard,Action,34,7,21,499,63,2026-06-20,27.9
+U1078,Mumbai,Smartphone,Standard,Action,26,3,28,499,148,2025-11-30,16.1
+U1224,Bengaluru,Tablet,Mobile,Comedy,39,6,45,149,174,2025-12-05,27.0
+U1242,Lucknow,Smart TV,Standard,Thriller,44,4,63,499,147,2025-04-19,50.4
+U1208,Delhi,Smart TV,Standard,Drama,35,7,,499,16,2025-09-06,33.9
+U1061,Mumbai,Smartphone,Premium,Action,31,8,,649,60,2025-06-19,63.6
+U1185,Delhi,Laptop,Standard,Drama,36,9,35,499,157,2025-09-12,48.1
+U1007,Mumbai,Smartphone,Mobile,Action,30,5,93,149,42,2025-06-24,53.2
+U1071,Hyderabad,Laptop,Mobile,Action,33,9,18,149,30,2025-02-16,43.7
+U1081,Lucknow,Tablet,Basic,Action,16,9,62,199,15,2025-06-13,44.6
+U1180,Mumbai,Smart TV,Mobile,Comedy,16,7,41,149,,2025-06-13,36.1
+U1097,Mumbai,Smartphone,Mobile,Drama,31,6,85,149,62,2026-10-06,54.2
+U1030,Mumbai,Smartphone,Basic,Action,30,7,66,199,66,2025-12-11,39.1
+U1112,Lucknow,Smart TV,Standard,Drama,18,9,25,499,64,2026-06-21,45.3
+U1212,Mumbai,Smartphone,Mobile,Thriller,24,9,92,149,27,2025-08-09,60.4
+U1084,Lucknow,Smart TV,Standard,Drama,31,10,69,499,49,2026-06-01,57.4
+U1135,Mumbai,Smartphone,Mobile,Action,39,1,43,149,59,2025-06-02,17.1
+U1079,Bengaluru,Smart TV,Mobile,Drama,20,9,111,149,45,2025-11-05,52.2
+U1093,Bengaluru,Smartphone,Mobile,Comedy,48,7,49,149,69,2026-04-27,41.9
+U1232,Hyderabad,Smartphone,Mobile,Comedy,33,8,56,149,102,2025-05-15,35.4
+U1163,Mumbai,Laptop,Mobile,Comedy,25,5,82,149,39,2025-08-29,43.9
+U1147,Delhi,Smartphone,Standard,Drama,30,4,87,499,52,2026-10-29,39.5
+U1040,Delhi,Smart TV,Basic,Drama,24,6,40,199,19,2025-03-07,36.2
+U1222,Bengaluru,Smart TV,Basic,Drama,35,4,62,199,42,2025-09-18,42.9
+U1218,Bengaluru,Smart TV,Standard,Comedy,28,3,55,499,22,2025-11-12,19.3
+U1230,Mumbai,Smartphone,Basic,Drama,31,4,49,199,72,2025-04-09,46.4
+U1126,Mumbai,Smartphone,Mobile,Drama,16,9,40,149,33,2026-10-23,34.4
+U1115,Lucknow,Smartphone,Basic,Drama,19,4,49,199,115,2026-09-14,31.6
+U1091,Delhi,Tablet,Mobile,Drama,36,7,41,149,60,2026-05-30,40.1
+U1011,Delhi,Smart TV,Standard,Comedy,30,5,38,499,155,2024-12-14,33.2
+U1136,Delhi,Smartphone,Standard,Comedy,21,1,78,499,40,2025-03-29,38.2
+U1211,Lucknow,Laptop,Premium,Action,28,4,54,649,62,2025-03-10,35.4
+U1246,Lucknow,Smart TV,Mobile,Drama,37,2,95,149,37,2025-01-08,40.3
+U1095,Delhi,Smart TV,Mobile,Action,19,8,100,149,18,2025-12-25,48.4
+U1177,Mumbai,Smart TV,Basic,Documentary,28,3,48,199,22,2026-07-05,33.2
+U1174,Hyderabad,Smartphone,Premium,Comedy,41,7,93,649,51,2026-05-15,44.6
+U1197,Delhi,Smartphone,Standard,Drama,36,7,39,499,,2025-03-22,21.5
+U1169,Delhi,Smartphone,Mobile,Thriller,27,6,44,149,36,2026-09-18,25.2
+U1045,Lucknow,Laptop,Mobile,Drama,23,8,85,149,24,2026-08-25,51.9
+U1016,Bengaluru,Laptop,Basic,Thriller,,5,74,199,118,2025-11-15,62.4
+U1058,Mumbai,Smartphone,Basic,Drama,45,6,59,199,46,2025-01-06,40.0
+U1138,Delhi,Smartphone,Mobile,Action,31,11,50,149,32,2026-08-13,53.8
+U1204,Hyderabad,Smart TV,Premium,Drama,212,1,79,649,16,2025-04-29,40.7
+U1153,Delhi,Tablet,Mobile,Drama,21,4,85,149,17,2025-11-14,46.2
+U1144,Bengaluru,Laptop,Basic,Drama,16,12,80,199,44,2026-04-19,60.1
+U1249,Mumbai,Laptop,Basic,Action,31,4,79,199,138,2025-08-15,49.6
+U1088,Mumbai,Laptop,Basic,Comedy,25,13,48,199,76,2026-07-13,51.0
+U1247,Bengaluru,Smartphone,Standard,Action,24,10,75,499,62,2026-05-17,60.6
+U1105,Delhi,Laptop,Basic,Documentary,18,7,82,199,41,2026-01-10,63.2
+U1193,Mumbai,Smartphone,Standard,Drama,16,13,86,499,55,2025-03-14,67.4
+U1026,Bengaluru,Smart TV,Standard,Action,20,4,64,499,66,2024-12-20,40.2
+U1055,Hyderabad,Smartphone,Basic,Action,33,10,94,199,57,2026-04-09,46.8
+U1202,Lucknow,Smart TV,Mobile,Comedy,39,5,67,149,76,2025-04-03,28.1
+U1190,Bengaluru,Smartphone,Basic,Action,17,2,65,199,64,2025-01-20,25.8
+U1024,Bengaluru,Smart TV,Mobile,Action,35,8,62,149,76,2025-09-12,47.0
+U1148,Delhi,Smartphone,Standard,Drama,29,1,18,499,74,2025-05-15,22.2
+U1098,Mumbai,Tablet,Standard,Action,20,11,55,499,44,2025-10-12,56.7
+U1172,Bengaluru,Smartphone,Mobile,Comedy,22,7,32,149,55,2026-03-28,32.1
+U1217,Delhi,Smartphone,Basic,Comedy,19,9,70,199,93,2025-10-21,39.6
+U1118,Hyderabad,Smart TV,Premium,Documentary,20,5,70,649,47,2026-11-15,36.6
+U1107,Hyderabad,Smartphone,Basic,Drama,20,10,19,199,42,2026-01-17,32.5
+U1239,HYDERABAD,Laptop,Mobile,Action,32,9,11,149,116,2025-04-23,24.2
+U1031,Hyderabad,Smart TV,Standard,Thriller,43,8,91,499,47,2025-09-26,52.0
+U1046,Lucknow,Smartphone,Premium,Action,26,6,68,649,255,2026-09-18,47.8
+U1125,Mumbai,Smartphone,Basic,Drama,33,6,43,199,185,2025-07-31,36.1
+U1198,Delhi,Smart TV,Mobile,Action,28,8,26,149,181,2026-09-28,37.6
+U1042,Mumbai,Smartphone,Standard,Comedy,16,7,34,499,45,2026-03-31,24.7
+U1114,Delhi,,Premium,Action,32,12,59,649,62,2026-08-28,56.9
+U1170,Mumbai,Laptop,Basic,Drama,16,8,72,199,113,2026-02-14,54.7
+U1145,Lucknow,Tablet,Mobile,Drama,32,10,,149,46,2026-09-14,49.1
+U1200,Delhi,Tablet,Basic,Thriller,34,5,83,199,57,2025-11-03,38.0
+U1113,Delhi,Laptop,Basic,Drama,32,8,61,199,119,2025-05-07,43.1
+U1226,Hyderabad,Laptop,Premium,Thriller,16,4,65,649,50,2025-02-12,31.3
+U1206,Hyderabad,,Premium,Comedy,27,8,99,649,121,2026-07-14,53.4
+U1238,DELHI,Tablet,Mobile,Comedy,39,8,32,149,47,2026-03-14,38.8
+U1075,Hyderabad,Laptop,Mobile,Drama,16,9,82,149,43,2025-08-05,57.0
+U1025,Delhi,Smartphone,Basic,Drama,16,4,95,199,54,2026-10-09,50.4
+U1032,Hyderabad,Smart TV,Mobile,Drama,33,10,64,149,65,2024-12-12,43.9
+U1023,Delhi,Smart TV,Mobile,Action,21,5,53,149,41,2026-05-29,40.7
+U1092,Mumbai,Smartphone,Standard,Action,34,3,60,499,207,2025-05-30,35.5
+U1243,Bengaluru,Smartphone,Premium,Comedy,19,7,83,649,116,2025-10-05,52.6
+U1019,Delhi,Smart TV,Basic,Comedy,31,8,80,199,99,2026-02-23,42.1
+U1181,Bengaluru,Smartphone,Premium,Comedy,31,10,41,649,57,2025-04-16,50.8
+U1038,Bengaluru,Smartphone,Premium,Drama,27,1,46,649,44,2026-07-18,32.5
+U1096,Bengaluru,Laptop,Basic,Comedy,39,4,76,199,43,2025-12-13,51.1
+U1154,Mumbai,Smartphone,Basic,Thriller,28,7,57,199,64,2026-04-06,42.2
+U1240,Delhi,Smartphone,Premium,Comedy,16,4,52,649,95,2026-08-12,35.2
+U1244,Lucknow,Tablet,Basic,Thriller,19,7,48,199,27,2025-08-24,52.2
+U1184,Mumbai,Smart TV,Basic,Comedy,20,3,55,199,94,2026-02-11,39.9
+U1213,Hyderabad,Smart TV,Basic,Drama,32,3,35,199,26,2025-03-13,23.0
+U1002,Bengaluru,Laptop,Standard,Thriller,27,1,,499,33,2025-02-21,28.2
+U1131,Delhi,Smart TV,Standard,Action,37,6,,499,51,2026-09-15,51.7
+U1227,Bengaluru,Smartphone,Basic,Drama,24,7,55,199,93,2026-08-05,53.8
+U1150,Hyderabad,Smart TV,Basic,Drama,,9,56,199,58,2025-02-26,44.5
+U1064,Delhi,Smartphone,Basic,Drama,32,7,53,199,49,2025-02-22,52.9
+U1161,Mumbai,Tablet,Basic,Documentary,19,4,69,199,53,2026-07-18,38.7
+U1074,Mumbai,Smart TV,Basic,Action,35,7,66,199,58,2026-01-06,39.2
+U1178,Bengaluru,Smartphone,Standard,Action,43,4,58,499,66,2024-12-30,35.1
+U1086,Hyderabad,Smart TV,Mobile,Comedy,31,3,41,149,51,2025-12-12,27.6
+U1035,Hyderabad,Tablet,Mobile,Drama,24,1,104,149,33,2024-12-16,35.5
+U1220,Delhi,Smart TV,Basic,Comedy,34,12,72,199,75,2025-02-25,57.2
+U1219,Hyderabad,Smart TV,Premium,Drama,40,2,83,649,40,2024-12-23,39.0
+U1066,Mumbai,Laptop,Basic,Drama,26,6,64,199,35,2025-01-23,37.6
+U1158,Mumbai,Tablet,Standard,Drama,,4,66,499,103,2026-03-02,39.8
+U1054,Mumbai,Laptop,Premium,Thriller,23,3,94,649,76,2025-05-09,62.5
+U1117,Bengaluru,Smart TV,Standard,Action,24,5,90,499,141,2025-05-05,47.4
+U1157,Delhi,Smart TV,Basic,Action,16,1,25,199,63,2025-03-06,24.6
+U1049,Hyderabad,Smartphone,Mobile,Drama,16,8,98,149,51,2026-10-09,42.0
+U1017,Mumbai,Smartphone,Basic,Thriller,27,7,75,199,86,2026-03-16,59.0
+U1111,Delhi,Smartphone,Basic,Drama,43,4,47,199,110,2025-01-25,23.0
+U1228,Delhi,Smartphone,Basic,Action,27,7,69,199,28,2025-10-18,45.3
+U1041,Mumbai,Smartphone,Mobile,Documentary,35,7,45,149,21,2025-02-03,41.9
+U1129,Mumbai,Smartphone,Mobile,Drama,21,10,49,149,70,2026-02-07,44.3
+U1034,Mumbai,Smartphone,Mobile,Comedy,22,7,80,149,45,2025-08-11,54.7
+U1094,delhi,Smartphone,Basic,Drama,34,6,68,199,59,2025-10-01,47.2
+U1210,Mumbai,Smartphone,Standard,Thriller,39,8,92,499,63,2026-01-05,55.8
+U1009,Hyderabad,Smart TV,Mobile,Action,21,2,56,149,29,2026-04-19,30.5
+U1151,Delhi,Laptop,Basic,Drama,28,7,46,199,48,2026-08-28,45.8
+U1248,Bengaluru,Smartphone,Premium,Drama,19,7,72,649,46,2026-07-28,55.6
+U1100,Bengaluru,Smart TV,Mobile,Comedy,26,5,62,149,34,2025-09-21,35.5
+U1165,Mumbai,Smartphone,Standard,Drama,16,8,25,499,32,2025-04-02,33.7
+U1179,Mumbai,Smartphone,Premium,Drama,30,11,59,649,35,2025-12-02,56.4
+U1139,Hyderabad,Smartphone,Standard,Drama,21,6,85,499,36,2026-02-22,42.4
+U1082,Hyderabad,Smartphone,Premium,Comedy,30,2,22,649,57,2025-09-28,16.1
+U1073,Mumbai,Smart TV,Mobile,Documentary,43,5,50,149,107,2026-04-29,18.4
+U1013,Lucknow,Smartphone,Basic,Thriller,41,8,,199,86,2026-06-14,52.8
+U1043,Bengaluru,Laptop,Mobile,Drama,33,5,72,149,38,2025-09-22,36.9
+U1029,Lucknow,Smartphone,Standard,Comedy,22,8,75,499,50,2025-03-25,44.6
+U1250,Delhi,Smartphone,Basic,Documentary,28,5,31,199,79,2025-06-04,18.7
+U1229,Lucknow,,Mobile,Documentary,29,8,24,149,46,2025-02-15,24.7
+U1122,Lucknow,Smartphone,Basic,Thriller,25,7,79,199,59,2026-02-01,48.8
+U1183,Lucknow,Smartphone,Mobile,Drama,24,12,77,149,37,2025-10-24,53.2
+U1108,Bengaluru,Laptop,Mobile,Documentary,38,3,35,149,23,2026-08-27,13.5
+U1028,Mumbai,Smart TV,Standard,Thriller,40,9,78,499,66,2025-09-09,53.9
+U1109,Delhi,Smartphone,Premium,Thriller,33,4,58,649,80,2025-10-25,27.8
+U1121,Mumbai,Smartphone,Mobile,Comedy,31,6,36,149,60,2026-05-13,23.4
+U1080,Bengaluru,Laptop,Mobile,Action,26,7,47,149,28,2026-08-04,37.0
+U1101,Bengaluru,Tablet,Premium,Action,28,5,86,649,,2026-07-01,50.4
+U1155,Delhi,Smartphone,Standard,Drama,22,6,50,499,81,2026-05-22,43.9
+U1051,Delhi,Smart TV,Standard,Thriller,29,9,37,499,80,2026-10-27,31.9
+U1160,Delhi,Smart TV,Premium,Thriller,27,3,74,649,19,2026-08-08,38.3
+U1085,Bengaluru,Smartphone,Premium,Action,34,3,27,649,145,2025-01-08,35.5
+U1102,Bengaluru,Smart TV,Premium,Action,38,9,63,649,48,2025-04-27,39.5
+U1231,Mumbai,Smartphone,Mobile,Thriller,30,6,66,149,69,2025-07-03,40.8
+U1156,Mumbai,Smart TV,Basic,Documentary,39,8,77,199,175,2026-01-04,33.8
+U1036,Delhi,Smartphone,Standard,Comedy,23,8,50,499,30,2026-04-22,49.8
+U1048,Bengaluru,Smart TV,Basic,Action,43,5,70,199,36,2025-06-21,42.2
+U1022,Bengaluru,Smartphone,Basic,Comedy,35,9,32,199,145,2025-04-08,19.9
+U1090,Mumbai,Smartphone,Premium,Thriller,34,8,80,649,23,2026-04-25,51.5
+U1099,Lucknow,Smartphone,Mobile,Drama,32,3,39,149,21,2025-01-06,32.3
+U1234,Delhi,Smartphone,Premium,Thriller,40,7,49,649,87,2026-09-08,40.2
+U1196,Mumbai,Laptop,Basic,Documentary,33,8,88,199,23,2025-10-25,39.7
+U1104,Delhi,Smartphone,Premium,Drama,17,5,81,649,158,2026-01-09,38.6
+U1134,Delhi,Smartphone,Mobile,Action,19,5,83,149,38,2025-02-11,40.4
+U1039,Hyderabad,Smart TV,Mobile,Documentary,32,6,50,149,73,2026-06-24,26.5
+U1203,Mumbai,Smart TV,Standard,Drama,31,9,30,499,31,2026-10-29,34.6
+U1057,Hyderabad,Smartphone,Mobile,Comedy,28,7,61,149,14,2025-11-27,43.6
+U1063,Delhi,Tablet,Standard,Drama,25,6,76,499,90,2026-01-22,48.8
+U1187,Bengaluru,Smart TV,Basic,Comedy,20,1,86,199,27,2026-10-27,42.3
+U1164,Lucknow,Smartphone,Basic,Drama,28,3,52,199,296,2025-07-31,24.6
+U1168,Delhi,Smartphone,Basic,Thriller,33,9,75,199,42,2026-10-18,42.5
+U1069,BENGALURU,Smartphone,Basic,Thriller,23,11,56,199,57,2025-06-14,58.9
+U1140,Bengaluru,Smart TV,Mobile,Thriller,33,3,85,149,55,2026-11-13,44.8
+U1127,Delhi,Smartphone,Standard,Comedy,48,3,52,499,,2026-07-18,29.1
+U1067,Delhi,Smartphone,Basic,Thriller,32,9,68,199,172,2025-03-07,50.0
+U1020,Lucknow,Smart TV,Premium,Thriller,16,2,74,649,89,2026-06-02,33.4
+U1173,Delhi,Smart TV,Basic,Comedy,22,10,56,199,83,2026-09-04,73.6
+U1044,Mumbai,Laptop,Mobile,Thriller,18,3,92,149,14,2026-01-03,38.6
+U1103,Delhi,Smartphone,Mobile,Comedy,24,8,51,149,44,2026-03-30,44.6
+U1014,Mumbai,Smartphone,Standard,Comedy,19,6,41,499,169,2026-11-13,31.2
+U1060,Bengaluru,Smart TV,Mobile,Drama,35,9,77,149,28,2025-04-19,69.0
+U1132,Lucknow,Smart TV,Standard,Comedy,29,8,41,499,63,2026-06-13,38.9
+U1146,Mumbai,Laptop,Standard,Action,,8,61,499,68,2026-09-25,58.2
+U1221,Bengaluru,Tablet,Basic,Action,17,1,54,199,15,2025-09-12,21.4
+U1207,Delhi,Smartphone,Mobile,Action,16,4,82,149,97,2026-08-17,41.0
+U1236,Hyderabad,Tablet,Basic,Documentary,37,5,54,199,44,2026-02-08,26.7
+U1143,Lucknow,Tablet,Basic,Action,22,8,42,199,66,2025-10-10,44.7
+U1132,Lucknow,Smart TV,Standard,Comedy,29,8,41,499,63,2026-06-13,38.9
+U1201,BENGALURU,Smart TV,Mobile,Action,25,14,46,149,52,2026-05-12,50.6
+U1176,Delhi,Smartphone,Mobile,Action,35,4,57,149,74,2025-12-09,29.6
+U1245,Delhi,Laptop,Basic,Thriller,27,6,46,199,123,2024-11-22,29.0
+U1128,Delhi,Smartphone,Basic,Action,31,10,49,199,68,2026-03-15,41.5
+U1018,Mumbai,Smartphone,Standard,Thriller,26,7,81,499,33,2026-03-21,56.3
+U1068,Hyderabad,Laptop,Premium,Drama,43,5,12,649,42,2025-03-15,30.5
+U1133,Delhi,Smart TV,Premium,Documentary,22,1,60,649,66,2025-04-05,41.6
+U1037,Delhi,Smartphone,Premium,Thriller,16,3,55,649,88,2026-06-13,30.5
+U1110,Bengaluru,Smartphone,Basic,Drama,36,10,89,199,61,2026-03-25,50.8
+U1008,Bengaluru,Smartphone,Standard,Action,20,5,41,499,94,2026-03-03,20.3
+U1059,Delhi,Smart TV,Basic,Action,17,9,109,199,75,2025-09-03,64.7
+U1215,Mumbai,Smartphone,Basic,Comedy,16,1,32,199,103,2026-03-02,25.5
+U1041,Mumbai,Smartphone,Mobile,Documentary,35,7,45,149,21,2025-02-03,41.9
+U1171,Delhi,Smart TV,Mobile,Thriller,43,1,91,149,63,2025-06-03,33.9
+U1056,Lucknow,Smart TV,Standard,Action,21,10,53,499,57,2026-11-14,45.8
+U1010,Delhi,Laptop,Premium,Drama,16,5,115,649,72,2026-05-03,55.6
+U1142,Delhi,Smartphone,Standard,Documentary,23,9,54,499,71,2026-07-04,34.0
+U1194,Delhi,Smartphone,Mobile,Action,25,5,34,149,15,2025-08-07,43.2
